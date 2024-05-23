@@ -1,0 +1,4 @@
+you need to add one more file ServiceAccountKey.json, which is to be downloaded from your firebase account.
+
+and to run server
+- npm run dev
